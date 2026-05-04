@@ -1,4 +1,4 @@
-# EDA-on-Iris-Dataset
+# EDA-Iris-Dataset
 
 The Iris dataset is one of the most famous and widely used datasets in machine learning and data analysis, introduced by British statistician and biologist Ronald Fisher in 1936.
 
