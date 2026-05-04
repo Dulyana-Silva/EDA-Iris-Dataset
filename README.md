@@ -12,5 +12,6 @@ There are 5 Attributes (Features) in the dataset :
 - Petal width
 - sepal length
 - sepal width
-These all are measured in cm.
 - Species of the flower
+
+All numaric values are measured in cm here.
