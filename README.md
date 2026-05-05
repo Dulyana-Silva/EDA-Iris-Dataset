@@ -64,9 +64,9 @@ All numaric values are measured in cm.
 
 #### 5). Distplot = Histogram + a smooth KDE curve (Kernel Density Estimate) on top. It can be used for the univariant visualizations.
 
-<img width="478" height="538" alt="image" src="https://github.com/user-attachments/assets/02688415-ca08-4dcb-bfd7-37e8ce323cd7" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/02688415-ca08-4dcb-bfd7-37e8ce323cd7" />
 
-<img width="387" height="548" alt="image" src="https://github.com/user-attachments/assets/8c8cd9c5-4182-4cdb-b346-fec2d26913e2" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8c8cd9c5-4182-4cdb-b346-fec2d26913e2" />
 
 ### Interpretation
 - In the cases of Petal Length and Petal Width, there is a very little amount of overlapping.
