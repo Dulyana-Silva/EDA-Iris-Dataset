@@ -5,7 +5,7 @@ EDA is a technique to analyze data using visuals. By conducting an EDA, We can g
 ## Iris Dataset
 This Dataset is one of the most famous and widely used datasets in machine learning and data analysis, introduced by British statistician and biologist Ronald Fisher in 1936.
 
-<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/53a8e4a5-50e8-4567-a696-122cc8742e70" />
+<img width="890" height="300" alt="image" src="https://github.com/user-attachments/assets/53a8e4a5-50e8-4567-a696-122cc8742e70" />
 
 ---
 
@@ -64,9 +64,9 @@ All numaric values are measured in cm.
 
 #### 5). Distplot = Histogram + a smooth KDE curve (Kernel Density Estimate) on top. It can be used for the univariant visualizations.
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/02688415-ca08-4dcb-bfd7-37e8ce323cd7" />
+<img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/02688415-ca08-4dcb-bfd7-37e8ce323cd7" />
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8c8cd9c5-4182-4cdb-b346-fec2d26913e2" />
+<img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/8c8cd9c5-4182-4cdb-b346-fec2d26913e2" />
 
 ### Interpretation
 - In the cases of Petal Length and Petal Width, there is a very little amount of overlapping.
@@ -87,12 +87,12 @@ All numaric values are measured in cm.
 
 ## Identifying Outliers.
 
-<img width="696" height="526" alt="image" src="https://github.com/user-attachments/assets/6e2b614d-7f71-4cd6-8a49-7eb6dfc10bd1" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/6e2b614d-7f71-4cd6-8a49-7eb6dfc10bd1" />
 
 - There're outliers in sepal width column data.
-<img width="681" height="537" alt="image" src="https://github.com/user-attachments/assets/3d86339c-c3e6-440c-be1b-e43c37754437" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/3d86339c-c3e6-440c-be1b-e43c37754437" />
 
 - After removing outliers using IQR.
-<img width="675" height="529" alt="image" src="https://github.com/user-attachments/assets/2d208e34-79b6-4c67-9de6-4d42707a7882" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/2d208e34-79b6-4c67-9de6-4d42707a7882" />
 
 
