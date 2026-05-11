@@ -78,21 +78,21 @@ All numaric values are measured in cm.
 ----
 ## Handling Correlation
 
-<img width="688" height="538" alt="image" src="https://github.com/user-attachments/assets/b4656559-b89f-479c-a882-5013ce5c5c00" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/b4656559-b89f-479c-a882-5013ce5c5c00" />
 
 ### Interpratation
 - Petal width and petal length have high correlations.
 - Petal length and sepal width have good correlations.
 - Petal width and sepal length have good correlations.
 
-## Identifying Outliers & Removing them using IQR.
+## Identifying Outliers.
 
-<img width="709" height="523" alt="image" src="https://github.com/user-attachments/assets/0918a5b6-77c3-48ad-98d6-b2ae7ce3a59d" />
+<img width="696" height="526" alt="image" src="https://github.com/user-attachments/assets/6e2b614d-7f71-4cd6-8a49-7eb6dfc10bd1" />
 
-- There're outliers in sepal width
+- There're outliers in sepal width column data.
 <img width="681" height="537" alt="image" src="https://github.com/user-attachments/assets/3d86339c-c3e6-440c-be1b-e43c37754437" />
 
-- After removing outliers
+- After removing outliers using IQR.
 <img width="675" height="529" alt="image" src="https://github.com/user-attachments/assets/2d208e34-79b6-4c67-9de6-4d42707a7882" />
 
 
