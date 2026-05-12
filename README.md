@@ -109,7 +109,7 @@ High-level models work better with dataset.
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/c5265a58-8a79-485f-8d84-b6fc22f3ff38" />
 
 ### Using the model for predictions.
-<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/59d8b7ae-e32d-4d3b-9894-6e25fcdcbde2" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/59d8b7ae-e32d-4d3b-9894-6e25fcdcbde2" />
 
 
 ## Further Improvements.
